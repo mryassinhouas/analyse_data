@@ -115,6 +115,7 @@ plt.grid(True)
 
 # Ouvrir la fenêtre
 plt.show()'''
+--------------------------------------------------------------------------------------------------version 2 with courbe and charts------------------------------------------------------------------------------
 import pandas as pd
 import matplotlib.pyplot as plt
 
